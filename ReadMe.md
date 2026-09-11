@@ -1,4 +1,4 @@
-# Lab 1: Database Query Performance Profiler
+# Database Query Performance Profiler
 
 ## Complete Requirements Table
 
