@@ -1,3 +1,6 @@
+**SRN: PES2UG24CS606**  
+**NAME: YAJAT MATHUR**
+
 # Software Engineering Labs
 
 This repository contains the course lab work for Software Engineering, organized by lab number.
@@ -13,7 +16,3 @@ This repository contains the course lab work for Software Engineering, organized
 
 ## Student
 
-**SRN: PES2UG24CS606**  
-**NAME: YAJAT MATHUR**
-
-The existing database profiler requirements document is preserved in [Database Query Profiler Requirements.md](<Database Query Profiler Requirements.md>).
